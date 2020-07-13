@@ -1,0 +1,24 @@
+{
+  "name": "react-native-template",
+  "version": "1.0.0",
+  "description": "React Native template, with structured and customized folders. Global styles, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Redux, Redux Saga, Reactotron and Axios configured.",
+  "keywords": [
+    "react-native",
+    "template",
+    "rocketseat",
+    "eslint",
+    "react-navigation",
+    "reactotron",
+    "babel-root-import",
+    "axios",
+    "redux",
+    "redux-saga"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jowpurcinelli/react-native-template"
+  },
+  "homepage": "",
+  "author": "Pedro Purcinelli<jppurcinelli@gmail.com>",
+  "license": "MIT"
+}
